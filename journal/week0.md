@@ -41,5 +41,7 @@ The screenshot below shows two budgets alarms. The *My Zero-Spend Bootcamp Budge
   
   ### IAM Role and MFA
   In addition to the above I set an IAM role with
+  
+  ![IAM screenshot](assets/IAM.png)
  
 </details>
