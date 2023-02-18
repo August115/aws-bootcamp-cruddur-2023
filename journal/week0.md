@@ -18,18 +18,19 @@ Below the work for some of the above tasks are shown as well as the creation of 
 insert picture
 
 ### Logiccal Architectural Diagram (LINK)
-insert picture
+![Logical Diagram Screenshot](assets/Logical-Aws-Cruddur.png)
 
 ### Installation of AWS CLI
 This can be seen through the **(LINK)** file.
 
 ### Billing Alarms
 The screenshot below shows two billing alarms. The *DailyEstimatedCharges* was set using and can be seen in the json file **(LINK)**.
-**insert image**
+![Logical Diagram Screenshot](assets/alarmsaws.png)
 
 ### Budgets
 The screenshot below shows two budgets alarms. The *My Zero-Spend Bootcamp Budget* was set using the console. The *Example Tag Budget* was set using and can be seen in the json file **(LINK)**.
-**insert image**
+
+![Logical Diagram Screenshot](assets/budgesaws.png)
 
 <details>
   
