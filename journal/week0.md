@@ -35,7 +35,7 @@ The screenshot below shows two budgets alarms. The *My Zero-Spend Bootcamp Budge
 
 <details>
   
-  <strong> <summary>Additional</summary> </strong>
+  <strong> <summary>Homework Challenge</summary> </strong>
   
   ### IAM Role and MFA
   In addition to the above I set an IAM role with
