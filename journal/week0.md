@@ -15,7 +15,7 @@ This week served as a bootcamp overview and introduction to cloud spend. After a
 Below the work for some of the above tasks are shown as well as the creation of an IAM role and setting MFA.
 
 ### Conceptual Diagram
-insert picture
+![Conceptual Diagram napkin](assets/conceptual.jpg)
 
 ### [Logical Architectural Diagram](https://lucid.app/lucidchart/b2da19de-4219-479b-b164-423dee699c3b/edit?viewport_loc=-318%2C-278%2C2560%2C1130%2C0_0&invitationId=inv_6fb4c238-057a-44ed-8fc1-15d39b8bd421)
 ![Logical Diagram Screenshot](assets/Logical-Aws-Cruddur.png)
