@@ -24,12 +24,12 @@ insert picture
 This can be seen through the [.gitpod.yml](https://github.com/August115/aws-bootcamp-cruddur-2023/blob/main/.gitpod.yml) file.
 
 ### Billing Alarms
-The screenshot below shows two billing alarms. The *DailyEstimatedCharges* was set using and can be seen in the [json file](https://github.com/August115/aws-bootcamp-cruddur-2023/blob/main/aws/json/alarm-config.json).
+The screenshot below shows two billing alarms. The *DailyEstimatedCharges* was set using a [json file](https://github.com/August115/aws-bootcamp-cruddur-2023/blob/main/aws/json/alarm-config.json).
 
 ![Alarms Screenshot](assets/alarmsaws.png)
 
 ### Budgets
-The screenshot below shows two budgets alarms. The *My Zero-Spend Bootcamp Budget* was set using the console. The *Example Tag Budget* was set using and can be seen in the json files [budget.json](https://github.com/August115/aws-bootcamp-cruddur-2023/blob/main/aws/json/budget.json) and [budget-notifications-with-subscribers.json](https://github.com/August115/aws-bootcamp-cruddur-2023/blob/main/aws/json/budget-notifications-with-subscribers.json).
+The screenshot below shows two budgets alarms. The *My Zero-Spend Bootcamp Budget* was set using the console. The *Example Tag Budget* was set though the json files [budget.json](https://github.com/August115/aws-bootcamp-cruddur-2023/blob/main/aws/json/budget.json) and [budget-notifications-with-subscribers.json](https://github.com/August115/aws-bootcamp-cruddur-2023/blob/main/aws/json/budget-notifications-with-subscribers.json).
 
 ![Budgets Screenshot](assets/budgesaws.png)
 
@@ -40,7 +40,7 @@ The screenshot below shows two budgets alarms. The *My Zero-Spend Bootcamp Budge
   <strong> <summary>Homework Challenge</summary> </strong>
   
   ### IAM Role and MFA
-  In addition to the above I set an IAM role with
+  In addition to the above I set an IAM role within my account.
   
   ![IAM screenshot](assets/IAM.png)
  
