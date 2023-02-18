@@ -33,6 +33,8 @@ The screenshot below shows two budgets alarms. The *My Zero-Spend Bootcamp Budge
 
 ![Budgets Screenshot](assets/budgesaws.png)
 
+---
+
 <details>
   
   <strong> <summary>Homework Challenge</summary> </strong>
