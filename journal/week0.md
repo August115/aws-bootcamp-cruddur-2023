@@ -17,20 +17,21 @@ Below the work for some of the above tasks are shown as well as the creation of 
 ### Conceptual Diagram
 insert picture
 
-### Logiccal Architectural Diagram (LINK)
+### [Logical Architectural Diagram](https://lucid.app/lucidchart/b2da19de-4219-479b-b164-423dee699c3b/edit?viewport_loc=-318%2C-278%2C2560%2C1130%2C0_0&invitationId=inv_6fb4c238-057a-44ed-8fc1-15d39b8bd421)
 ![Logical Diagram Screenshot](assets/Logical-Aws-Cruddur.png)
 
 ### Installation of AWS CLI
-This can be seen through the **(LINK)** file.
+This can be seen through the [.gitpod.yml](https://github.com/August115/aws-bootcamp-cruddur-2023/blob/main/.gitpod.yml) file.
 
 ### Billing Alarms
-The screenshot below shows two billing alarms. The *DailyEstimatedCharges* was set using and can be seen in the json file **(LINK)**.
-![Logical Diagram Screenshot](assets/alarmsaws.png)
+The screenshot below shows two billing alarms. The *DailyEstimatedCharges* was set using and can be seen in the [json file](https://github.com/August115/aws-bootcamp-cruddur-2023/blob/main/aws/json/alarm-config.json).
+
+![Alarms Screenshot](assets/alarmsaws.png)
 
 ### Budgets
-The screenshot below shows two budgets alarms. The *My Zero-Spend Bootcamp Budget* was set using the console. The *Example Tag Budget* was set using and can be seen in the json file **(LINK)**.
+The screenshot below shows two budgets alarms. The *My Zero-Spend Bootcamp Budget* was set using the console. The *Example Tag Budget* was set using and can be seen in the json files [budget.json](https://github.com/August115/aws-bootcamp-cruddur-2023/blob/main/aws/json/budget.json) and [budget-notifications-with-subscribers.json](https://github.com/August115/aws-bootcamp-cruddur-2023/blob/main/aws/json/budget-notifications-with-subscribers.json).
 
-![Logical Diagram Screenshot](assets/budgesaws.png)
+![Budgets Screenshot](assets/budgesaws.png)
 
 <details>
   
